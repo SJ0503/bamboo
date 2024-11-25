@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d56db81f-eff4-449c-be37-31134b22a0d7" name="Changes" comment="알람눌렀을떄 채팅화면, 데이터로드" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "ts.external.directory.path": "C:\\Users\\jin\\Desktop\\bambooo\\my-app\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="알람눌렀을떄 채팅화면, 데이터로드">
+      <option name="closed" value="true" />
+      <created>1732530957559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732530957559</updated>
+    </task>
+    <task id="LOCAL-00002" summary="알람눌렀을떄 채팅화면, 데이터로드">
+      <option name="closed" value="true" />
+      <created>1732531140566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732531140566</updated>
+    </task>
+    <task id="LOCAL-00003" summary="알람눌렀을떄 채팅화면, 데이터로드">
+      <option name="closed" value="true" />
+      <created>1732531210912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732531210912</updated>
+    </task>
+    <task id="LOCAL-00004" summary="알람눌렀을떄 채팅화면, 데이터로드">
+      <option name="closed" value="true" />
+      <created>1732531234161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732531234161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="알람눌렀을떄 채팅화면, 데이터로드">
+      <option name="closed" value="true" />
+      <created>1732531322359</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732531322359</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="알람눌렀을떄 채팅화면, 데이터로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="알람눌렀을떄 채팅화면, 데이터로드" />
+  </component>
+</project>

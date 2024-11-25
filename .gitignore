@@ -1,0 +1,5 @@
+emotion_classification_api/emotion_classification_model/
+config.py
+secrets.py
+*_config.py
+.env

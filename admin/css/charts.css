@@ -1,0 +1,127 @@
+/* 도넛 차트 스타일 */
+.chart-legend {
+    margin-top: 20px;
+    padding: 15px;
+    
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+
+.legend-item:hover {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+    display: inline-block;
+}
+
+.legend-label {
+    margin-right: 8px;
+    color: #555;
+    flex-grow: 1;
+}
+
+.legend-value {
+    font-weight: bold;
+    color: #333;
+    min-width: 45px;
+    text-align: right;
+    background-color: #f8f9fa;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+/* 차트 카드 스타일 */
+.chart-card {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    border: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.chart-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(0,0,0,0.12);
+}
+
+.chart-card .card-header {
+    background-color: #fff;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 15px 20px;
+}
+
+.chart-card .card-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin: 0;
+}
+
+.chart-card .card-body {
+    padding: 20px;
+}
+
+/* 도넛 차트 컨테이너 */
+#donutChart {
+    height: 250px !important;
+    width: 100% !important;
+    margin: 0 auto;
+}
+
+/* 반응형 스타일 */
+@media (max-width: 768px) {
+    .legend-item {
+        font-size: 12px;
+    }
+
+    .legend-dot {
+        width: 10px;
+        height: 10px;
+    }
+
+    .chart-card .card-body {
+        padding: 15px;
+    }
+}
+
+/* 호버 효과 */
+.legend-item:hover {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+/* 값에 대한 강조 효과 */
+.legend-value {
+    background-color: #f8f9fa;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+/* 카드 호버 효과 */
+.card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(0,0,0,0.12);
+}
+
+
+

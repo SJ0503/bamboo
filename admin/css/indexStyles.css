@@ -1,0 +1,31 @@
+/* 테이블 셀 간격 조정 */
+#userDataTable th, #userDataTable td {
+    padding: 15px 30px; /* 상하 15px, 좌우 30px */
+  }
+  
+  /* 카드 길이 제한 및 스크롤 제거 */
+  .card-body {
+    max-height: none; /* 최대 높이 제한 없음 */
+    overflow-y: hidden; /* 세로 스크롤 숨김 */
+  }
+  
+  .card {
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    padding: 10px 15px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
+  .table {
+    margin-bottom: 0;
+  }

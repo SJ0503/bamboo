@@ -3,3 +3,4 @@ config.py
 secrets.py
 *_config.py
 .env
+google-services.json
